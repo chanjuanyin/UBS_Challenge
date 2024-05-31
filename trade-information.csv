@@ -1,0 +1,13 @@
+﻿trade name,underlying,pay_frequency,maturity,lower_bound,upper_bound
+dummyTrade1,USD: CMS:2Y,6M,5Y,0.0042,0.0379
+dummyTrade2,USD: CMS:2Y,4M,5Y,0.0042,0.0379
+dummyTrade3,USD: CMS:5Y,6M,5Y,0.0044,0.0397
+dummyTrade4,USD: CMS:5Y,4M,5Y,0.0044,0.0397
+dummyTrade5,USD: CMS:10Y,4M,5Y,0.0046,0.0417
+dummyTrade6,USD: CMS:10Y,3M,5Y,0.0046,0.0417
+dummyTrade7,USD: CMS:2Y,6M,10Y,0.0042,0.0379
+dummyTrade8,USD: CMS:2Y,4M,10Y,0.0042,0.0379
+dummyTrade9,USD: CMS:5Y,6M,10Y,0.0044,0.0397
+dummyTrade10,USD: CMS:5Y,4M,10Y,0.0044,0.0397
+dummyTrade11,USD: CMS:10Y,4M,10Y,0.0046,0.0417
+dummyTrade12,USD: CMS:10Y,3M,10Y,0.0046,0.0417
